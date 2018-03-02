@@ -1,0 +1,7 @@
+c:\users\vashriva\documents\visual studio 2017\Projects\Algorithms\Algorithms\bin\Debug\Algorithms.exe.config
+c:\users\vashriva\documents\visual studio 2017\Projects\Algorithms\Algorithms\bin\Debug\Algorithms.exe
+c:\users\vashriva\documents\visual studio 2017\Projects\Algorithms\Algorithms\bin\Debug\Algorithms.pdb
+c:\users\vashriva\documents\visual studio 2017\Projects\Algorithms\Algorithms\obj\Debug\Arrays.csprojResolveAssemblyReference.cache
+c:\users\vashriva\documents\visual studio 2017\Projects\Algorithms\Algorithms\obj\Debug\Algorithms.exe
+c:\users\vashriva\documents\visual studio 2017\Projects\Algorithms\Algorithms\obj\Debug\Algorithms.pdb
+C:\Users\vashriva\Documents\Visual Studio 2017\Projects\Algorithms\Algorithms\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
