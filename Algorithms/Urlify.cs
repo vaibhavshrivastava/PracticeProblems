@@ -9,8 +9,6 @@ namespace Algorithms
     public class Urlify
     {
 
-
-      
         public string UrlifyString(string input)
         {
                 input = input.Trim();

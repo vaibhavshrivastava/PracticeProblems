@@ -50,6 +50,7 @@
     <Compile Include="MaxPairwiseProduct.cs" />
     <Compile Include="OneAway.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SpiralArray.cs" />
     <Compile Include="StringCompression.cs" />
     <Compile Include="Test.cs" />
     <Compile Include="Urlify.cs" />
