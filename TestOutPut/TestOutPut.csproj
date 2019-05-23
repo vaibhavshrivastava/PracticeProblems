@@ -49,6 +49,10 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\LinkedListNew\LinkedListNew.csproj">
+      <Project>{eca0bd37-03b4-4be1-8637-e42bbc9b2203}</Project>
+      <Name>LinkedListNew</Name>
+    </ProjectReference>
     <ProjectReference Include="..\LinkedList\LinkedList.csproj">
       <Project>{1690ac4e-bbdc-48c4-acde-cd3614677da5}</Project>
       <Name>LinkedList</Name>

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Algorithms
 {
-    public class Fibonacci
+    public class Week2
     {
         // This implementation uses recursion which is bad in this case as it is making duplicate calls to process same data
         public int GetFibonacciBad(int n)
