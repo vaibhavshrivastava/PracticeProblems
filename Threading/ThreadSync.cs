@@ -51,8 +51,6 @@ namespace Threading
             var authvalue = "Beam@Pass111";
             var nullchar = '\u0000';
             var auth = nullchar + username + nullchar + authvalue;
-
-            
         }
 
 
@@ -79,7 +77,6 @@ namespace Threading
 
                 Console.WriteLine("From: {0}", oMail.From.ToString());
                 Console.WriteLine("Subject: {0}\r\n", oMail.Subject);
-
             }
         }
 
