@@ -71,19 +71,19 @@ namespace C2Week1
 
         }
 
-        public int Height()
-        {
-            if (root == null)
-                return 0;
-            else if (root.Children.Count == 0)
-                return 1;
-            else
-            {
-                foreach (var child in root.Children)
-                {
+        //public int Height()
+        //{
+        //    if (root == null)
+        //        return 0;
+        //    else if (root.Children.Count == 0)
+        //        return 1;
+        //    else
+        //    {
+        //        foreach (var child in root.Children)
+        //        {
                     
-                }  
-            }
-        }
+        //        }  
+        //    }
+        //}
     }
 }
