@@ -16,7 +16,6 @@ namespace Week2
             Int64 fibonacciMod = 1;
             Int64 a = 0;
             Int64 b = 1;
-            Int64 c = 0;
             List<Int64> remainders = new List<Int64>();
             while (true)
             {

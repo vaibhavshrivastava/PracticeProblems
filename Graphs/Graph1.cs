@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Graphs.DetectCycle
+namespace Graph1
 {
     // Detect a cycle in a graph
     public class Vertex
@@ -92,6 +92,41 @@ namespace Graphs.DetectCycle
                     DFS(neighbour);
                 }
             }
+        }
+
+
+
+        public int GetConnectedComponent()
+        {
+            int count=0;
+            foreach (var vertex in vertices)
+            {
+                if (!vertex.visited)
+                {
+                    count++;
+                    DFS(vertex);
+                }
+
+            }
+            return count;
+            
+        }
+
+        private void VisitConnectedNodes(Vertex vertex)
+        {
+            if (vertex.visited)
+                return;
+            vertex.visited = true;
+            var neighbours = vertex.AdjList;
+            foreach (var item in neighbours)
+            {
+                if (!item.visited)
+                {
+                    VisitConnectedNodes(item);
+                }
+
+            }
+
         }
 
 

@@ -27,7 +27,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode", "LeetCode\LeetCo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C1Week4", "Week4\C1Week4.csproj", "{2F559784-6BFC-4527-82CE-2C5E0CE36C78}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{1567B6B6-CE83-4324-80DD-1C19544BB55A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructureTests", "UnitTestProject1\DataStructureTests.csproj", "{1567B6B6-CE83-4324-80DD-1C19544BB55A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedListNew", "LinkedListNew\LinkedListNew.csproj", "{ECA0BD37-03B4-4BE1-8637-E42BBC9B2203}"
 EndProject

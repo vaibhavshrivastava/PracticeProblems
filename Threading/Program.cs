@@ -33,16 +33,6 @@ namespace Threading
             }
         }
     }
-
-
-
-    class Maths
-    {
-
-        public int Num1;
-        public int Num2;
-
-    }
     // Thread syncronizatin 
     //--Lock
     //--Mutex
